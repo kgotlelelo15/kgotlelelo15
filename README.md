@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hi there 👋 I`m Kgotlelelo Mbiza
 
-<!--
-**kgotlelelo15/kgotlelelo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
 
-Here are some ideas to get you started:
+Java • React • AWS • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Aspiring
+
+Full Stack Developer
+
+🔥 Passionate About
+
+Creating high-performance digital solutions, designing intuitive user experiences, building intelligent systems for real-world impact, and developing clean, scalable, and cloud-ready applications that solve meaningful problems.
+
+🛠️ Tech Stack
+Languages:
+
+Java • Python • JavaScript • TypeScript • PHP • SQL
+
+Frontend:
+
+React • HTML • CSS • Tailwind CSS • Bootstrap
+
+Backend:
+
+Spring Boot • Node.js • PHP
+
+Databases:
+
+MySQL • SQLite • Firebase
+
+Cloud / DevOps:
+
+AWS (simulated) • Git • Docker
+
+⭐ Featured Projects
+
+Portfolio Website
+🔗 https://kgotlelelo15.github.io/Personal.portfolio/
+
+E-commerce Car Website
+🔗 https://kgotlelelo15.github.io/e-Commence-car/
+
+Daily Hustle (To-Do List App)
+🔗 https://v0-daily-hustle-website-design.vercel.app/
+
+BookWise Library Management System
+🔗 https://v0-bookwise-library-app.vercel.app/
+
+AgriBot Rural – Smart Farming Assistance
+🔗 https://v0-smart-farming-assistant-kappa.vercel.app/
+
+Smart Recruitment System
+🔗 https://dazzling-buttercream-ccdefb.netlify.app/
+
+📬 Contact Me
+
+📧 Email: kgotleleloserena@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kgotlelelo-mbiza-baa88733b/
